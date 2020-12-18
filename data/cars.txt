@@ -1,0 +1,6 @@
+Porsche:Panamero:120000
+Shelby:GT500CR:200000
+Bentley:EXP 100 GT:35000
+Kia:Cerato:15000
+Jaguar:XJS:50000
+Chevrolet:Camaro:35000
